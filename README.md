@@ -1,7 +1,5 @@
 <img height="64" src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Categories-applications-internet-icon.png" alt="Desenvolvimento Web"/>     <img height="64" src="https://images.freeimages.com/fic/images/icons/315/hydropro_v2/512/my_computer.png" alt="Computador"/>     <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png" alt="Linux Mint"/>     <img height="64" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/android_original_logo_icon_146653.png" alt="Android"/>
 
-## Olá 👋
-
 Meu nome é João Vitor Carvalho Domingos. Sou brasileiro. Amo softwares, web e programação. Eu aprendo mais sobre programação desde 2020. Então estou determinado em ajudar e colaborar com projetos de programação.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao003&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao003&theme=dark&show_icons=true)
