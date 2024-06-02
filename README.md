@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**joao003/joao003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Vitor Carvalho Domingos. I'm Brazilian. I love softwares, web and coding, I learned more about programming since 2020. So I'm determined to help and contribute with innovating programming projects.
 
-Here are some ideas to get you started:
+## Knowledges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C
+* C++
+* Java
+* JavaScript
+* HTML
+* CSS
+* Python
+* Node.js
+* React
+* React Native
+* Rust
+* MySQL
+* Flask
+
+## My hobbies & interests
+
+* Web development
+* Open source softwares
+* Windows and Linux
+* My favorite coding language is Python
+* Computer tech
+* Playing video games
+* Watching movies and shows
+* Learning about programming
+* Helping and collaborating with programming projects.
+
+## My projects
+
+* I made a mobile messaging application with React Native as final degree project for IF Sul de Minas online mobile programming course.
+* I made Breakout game with Python and PyGame as final degree project for online CC50 course. If you are interested, see my repository: https://github.com/joao003/breakout-python
