@@ -17,3 +17,5 @@ Meu nome é João Vitor Carvalho Domingos. Sou brasileiro. Amo softwares, web e 
 
 * Fiz um aplicativo mobile de mensagem instantânea usando React Native como projeto de conclusão de curso para curso online de Programação Mobile de IF Sul de Minas.
 * Fiz um jogo de Breakout usando Python e PyGame como projeto de conclusão de curso para curso online de CS50. Se estiver interessado, veja meu repositório: https://github.com/joao003/breakout-python
+* Durante o segundo período de Engenharia de Software de PUC Minas, eu, junto com minha equipe, criamos um aplicativo de gerenciamento de partidas de futebol como parte da disciplina “Trabalho Interdisciplinar: Aplicações para Processos de Negócios”, utilizando as seguintes linguagens: Java, JavaScript, HTML e CSS.
+* Fiz um projeto como freelancer de um aplicativo mobile de gerenciamento de fazenda, chamado GreenTech, utilizando React Native e SQL Server.
